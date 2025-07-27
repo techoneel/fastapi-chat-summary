@@ -5,7 +5,7 @@ A simple FastAPI micro-agent using OpenAI to summarize chats and suggest next ac
 ## Setup
 
 ```bash
-git clone <your-url>
+git clone https://github.com/techoneel/fastapi-chat-summary.git
 cd fastapi-chat-summary
 pip install -r requirements.txt
 export OPENAI_API_KEY=sk-...
